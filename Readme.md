@@ -1,5 +1,5 @@
 ##   Greeting Married 
-  <p>git <br><p>
+  <p>Merupakan website untuk acara wedding atau pernikahan <br>Dengan adanya website ini, kita bisa mengundang kerabat, sahabat serta keluarga untuk menghadiri pesta pernikahan <br><p>
 
 ## ✅ Screenshot 
 
