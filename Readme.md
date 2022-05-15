@@ -1,9 +1,14 @@
-##   Greeting Married 
+# 📌 Greeting Married 
   <p>Merupakan website untuk acara wedding atau pernikahan <br>Dengan adanya website ini, kita bisa mengundang kerabat, sahabat serta keluarga untuk menghadiri pesta pernikahan <br><p>
 
 ## ✅ Screenshot 
 
-![image](https://github.com/bagussatoto/Endolita-Cake/blob/main/assets/images/menu.jpg)
+### Home 
+![image](https://github.com/bagussatoto/Website-Wedding/blob/main/assets/Screenshot/Home.png)
+### Couple 
+![image](https://github.com/bagussatoto/Website-Wedding/blob/main/assets/Screenshot/couple.png)
+### Event 
+![image](https://github.com/bagussatoto/Website-Wedding/blob/main/assets/Screenshot/event.png)
 
 
 ## 👦🏽 Siapa pembuat aplikasi ini?
